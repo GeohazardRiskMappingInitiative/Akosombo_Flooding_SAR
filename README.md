@@ -64,3 +64,6 @@ Adapted by Guido Lemoine
 
 ### Reference
 Yommy, A. S., Liu, R., & Wu, S. (2015, August). SAR image despeckling using refined Lee filter. In 2015 7th International Conference on Intelligent Human-Machine Systems and Cybernetics (Vol. 2, pp. 260-265). IEEE.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
